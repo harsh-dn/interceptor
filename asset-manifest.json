@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/interceptor/static/css/main.5f6e5c9b.chunk.css",
+    "main.js": "/interceptor/static/js/main.6be50c49.chunk.js",
+    "main.js.map": "/interceptor/static/js/main.6be50c49.chunk.js.map",
+    "runtime-main.js": "/interceptor/static/js/runtime-main.0ad79774.js",
+    "runtime-main.js.map": "/interceptor/static/js/runtime-main.0ad79774.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/interceptor/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8906df5b.chunk.js": "/interceptor/static/js/2.8906df5b.chunk.js",
+    "static/js/2.8906df5b.chunk.js.map": "/interceptor/static/js/2.8906df5b.chunk.js.map",
+    "static/js/3.ff7b7d3d.chunk.js": "/interceptor/static/js/3.ff7b7d3d.chunk.js",
+    "static/js/3.ff7b7d3d.chunk.js.map": "/interceptor/static/js/3.ff7b7d3d.chunk.js.map",
+    "index.html": "/interceptor/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/interceptor/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5f6e5c9b.chunk.css.map": "/interceptor/static/css/main.5f6e5c9b.chunk.css.map",
+    "static/js/2.8906df5b.chunk.js.LICENSE.txt": "/interceptor/static/js/2.8906df5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad79774.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8906df5b.chunk.js",
+    "static/css/main.5f6e5c9b.chunk.css",
+    "static/js/main.6be50c49.chunk.js"
+  ]
+}
